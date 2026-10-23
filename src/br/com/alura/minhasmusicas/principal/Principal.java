@@ -8,7 +8,7 @@ public class Principal {
     public static void main(String[] args) {
         Musica minhaMusica = new Musica();
 
-        minhaMusica.setTitulo("Alice e o jaguardate");
+        minhaMusica.setTitulo("Alice e o jaguadate");
         minhaMusica.setArtista("Jotapê");
 
         for (int i = 0; i < 1000; i++) {
